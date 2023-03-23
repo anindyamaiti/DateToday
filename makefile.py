@@ -1,6 +1,6 @@
 from datetime import datetime
 
-date = datetime.now().strftime('%Y_%m_%d')
+date = datetime.now().strftime('#Today\'s Date: %Y-%m-%d')
 
 myFileName = 'README.md'
 
